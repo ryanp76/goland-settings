@@ -1,0 +1,8 @@
+<application>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COMPACT_REFERENCES_VIEW" value="false" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="SHOW_LST_GUTTER_MARKERS" value="false" />
+  </component>
+</application>

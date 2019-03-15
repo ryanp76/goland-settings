@@ -1,0 +1,11 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="accentColor" value="009688" />
+    <option name="userId" value="5905344:1683e3ffd79:-8000" />
+    <option name="version" value="3.5.0.1" />
+  </component>
+</application>

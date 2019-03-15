@@ -1,0 +1,9 @@
+<application>
+  <component name="GoSdkList">
+    <sdk-path>
+      <set>
+        <option value="/projects/ntsw-tools/go1.10" />
+      </set>
+    </sdk-path>
+  </component>
+</application>

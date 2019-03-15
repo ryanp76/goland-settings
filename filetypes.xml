@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="go_build_docwalk_go" type="PLAIN_TEXT" />
+      <mapping pattern="go.mod" type="PLAIN_TEXT" />
+      <mapping pattern="notes" type="PLAIN_TEXT" />
+      <mapping ext="tlist" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

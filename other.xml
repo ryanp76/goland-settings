@@ -1,0 +1,56 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.65" />
+    <property name="ExpandBeforeRunStepsPanel" value="false" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="INSPECTION_FILTER_HISTORY" value="whitespace" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="RunConfigurable.dividerProportion" value="0.32428855" />
+    <property name="SettingsSearchHistory" value="build tags&#10;interpre&#10;whitespace&#10;code tabs&#10;split vert" />
+    <property name="TrendingPluginsSearchHistory" value="settings repository&#10;repository" />
+    <property name="evlsprt.183" value="168d89ffd30" />
+    <property name="evlsprt2.183" value="16876c72a5d" />
+    <property name="evlsprt3.183" value="12" />
+    <property name="file.chooser.recent.files" value="/projects/ntsw-sw19/home/ryanp/sdklt/INTERNAL/examples/bcm56880_a0/config/generic-bcm56880-lb_mgmt_cpu.config.yml&#10;/projects/ntsw-sw19/home/ryanp/sdklt/INTERNAL/examples/bcm56880_a0/config/generic-bcm56880-32x400.config.yml&#10;/projects/ntsw-sw19/home/ryanp/sdklt/INTERNAL/examples/test_infra/default_config.map&#10;/projects/ntsw-sw19/home/ryanp/sdklt/INTERNAL/examples/test_infra/cli_script_to_config.map&#10;/projects/ntsw-sw19/home/ryanp/sdklt/INTERNAL/examples/bcm56980_a0/cli/counter/bcm56980_a0_counter_egress_l2.result&#10;/projects/ntsw-sw19/home/ryanp/sdklt/INTERNAL/appl/regress/go/src&#10;/projects/ntsw-sw19/home/ryanp/sdklt/bcmtrm/include/bcmtrm/trm_api.h&#10;/projects/ntsw-sw19/home/ryanp/sdklt/bcmtrm/main/trm_entry.c&#10;/projects/ntsw-sw19/home/ryanp/sdklt/bcmtrm/main/trm_sysm.c&#10;/projects/ntsw-sw19/home/ryanp/sdklt/bcmtrm/main/trm_trans.c&#10;/projects/ntsw-sw19/home/ryanp/sdklt/bcmtrm/main/trm_notify.c&#10;/projects/ntsw-sw19/home/ryanp/sdklt/bcmtrm/main/tr_mgr_nb.c&#10;/projects/ntsw-sw19/home/ryanp/sdklt/bcmlt/main/bcmlt_internal.h&#10;/projects/ntsw-sw19/home/ryanp/sdklt/bcmlt/main/bcmlt_ltable_entry.c&#10;/projects/ntsw-sw19/home/ryanp/sdklt/bcmlt/include/bcmlt/bcmlt.h&#10;/projects/ntsw-sw19/home/ryanp/sdklt/INTERNAL/config/regression/index.yml&#10;/projects/ntsw-sw19/home/ryanp/sdklt/INTERNAL/config/regression/common/partial-atomic-trans-enable.yml&#10;/projects/ntsw-sw19/home/ryanp/sdklt/INTERNAL/appl/build_regression/Makefile&#10;/projects/ntsw-sw19/home/ryanp/sdklt/INTERNAL/appl/demo/Makefile&#10;/projects/ntsw-sw19/home/ryanp/sdklt/appl/demo/Makefile&#10;/projects/ntsw-sw19/home/ryanp/sdklt/INTERNAL/appl/regress/go/src/bcm/test/arch&#10;/projects/ntsw-sw19/home/ryanp/sdk/regress/bcm/tests/bcm/knet/knet.tcl&#10;/projects/ntsw-sw19/home/ryanp/sdk/regress/bcm/tests/bcm/knet/testKnet.sh&#10;/projects/ntsw-sw19/home/ryanp/sdk/regress/bcm/tests/bcm/knet/testKnet.tcl&#10;/projects/ntsw-sw19/home/ryanp/sdklt/linux/include/lkm/ngknet_dev.h&#10;/projects/ntsw-sw19/home/ryanp/sdklt/bcmcnet/main/bcmcnet_rxtx.c&#10;/projects/ntsw-sw19/home/ryanp/sdklt/bcmcnet/main/bcmcnet_dev.c&#10;/projects/ntsw-sw19/home/ryanp/sdklt/bcmpkt/net/bcmpkt_net.c&#10;/projects/ntsw-sw19/home/ryanp/sdklt/bcmpkt/unet/bcmpkt_unet.c&#10;/projects/ntsw-sw19/home/ryanp/sdklt/bcmpkt/include/bcmpkt/bcmpkt_net.h" />
+    <property name="file.gist.reindex.count" value="32" />
+    <property name="fileTypeChangedCounter" value="4" />
+    <property name="go.init.cfg.2" value="true" />
+    <property name="go.init.cfg.line.markers" value="true" />
+    <property name="go.init.mod.file.type" value="true" />
+    <property name="go.last.update.timestamp" value="1552670481922" />
+    <property name="go.libraries.notification.had.been.shown" value="true" />
+    <property name="go.optimizeImportsByDefault" value="true" />
+    <property name="go.suggest.all.rc.was.enabled.once" value="true" />
+    <property name="gocheck.Splitter.Proportion" value="0.3528409" />
+    <property name="js.modules.notification.shown" value="true" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="settings.code.style.selected.tab.go" value="Tabs and Indents" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
