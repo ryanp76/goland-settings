@@ -3,6 +3,7 @@
     <sdk-path>
       <set>
         <option value="/projects/ntsw-tools/go1.10" />
+        <option value="/projects/ntsw-tools/go1.12.3/go" />
       </set>
     </sdk-path>
   </component>
